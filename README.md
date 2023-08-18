@@ -27,7 +27,7 @@ O EBIT da PCAR3 dos últimos 12 meses é de: R$3.83 bi
 
 Vamos então dividir EV (R$ 23.38 bi) por EBIT (R$3.83 bi) = 6.1
 
-que é ROE?
+O que é ROE?
 
 A sigla ROE, tem origem no termo em inglês, “Return on Equity”, que ao ser traduzido para o português pode ser interpretado como “Retorno sobre o capital.”
 Em síntese, esse indicador busca demonstrar para os investidores e analistas, o quanto uma empresa é capaz de gerar valor para ela mesma por meio dos seus próprios recursos.
