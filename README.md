@@ -1,6 +1,6 @@
-# Formula magica
+# Formúla magica
 
-Formula mágica Joel Grenblatt
+Formúla mágica Joel Grenblatt
 
 
 O que é EV/EBIT
